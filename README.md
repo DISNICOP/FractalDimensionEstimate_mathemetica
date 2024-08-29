@@ -1,0 +1,2 @@
+# FractalDimensionEstimate_mathemetica
+Fractal dimension estimation by mathemetica
